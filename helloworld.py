@@ -15,5 +15,5 @@ if float(e)<=5.0 and float(e)>=3.0:
 else:
         print("Invalid input value range please consult the documentation for furthur instruction ")
 
-#code inserted is wrong first ever code
+# this is my first ever code program leave a suggestion to make me improve my code
 #rewriting of code in next module
