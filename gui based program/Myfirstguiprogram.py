@@ -5,4 +5,5 @@ B=Label(root, text="This is the library following the tkinter which supports gui
 A.pack()
 B.pack()
 root.mainloop()
+# this is the bas8ic gui program for python 
 
